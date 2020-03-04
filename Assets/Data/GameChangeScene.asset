@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4937002adef87eb4eb7e6ee87ec1379d, type: 3}
+  m_Name: GameChangeScene
+  m_EditorClassIdentifier: 
+  _ScreenFade: {fileID: 114947702583477742, guid: c3eea998aba0d5b43b8aa87f264253cc,
+    type: 2}
+  _TargetScene: Game
+  _FadeInTarget: 0
+  _FadeOutTarget: 1.2
+  _TimeToFade: 0.5
+  xdd:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Kill
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - FurFlyStands
+  - Bridges
+  - Black
+  - White
+  - FurFlies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2827513035
+    locked: 0
+  - name: Bridges
+    uniqueID: 376337885
+    locked: 0
+  - name: Platforms
+    uniqueID: 507532923
+    locked: 0
+  - name: Objects
+    uniqueID: 2124333231
+    locked: 0
+  - name: Player
+    uniqueID: 2132628923
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
